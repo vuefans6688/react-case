@@ -1,0 +1,21 @@
+.todo-footer {
+  height: 40px;
+  line-height: 40px;
+  padding-left: 8px;
+  margin-top: 5px;
+  label {
+    display: inline-block;
+    margin-right: 15px;
+    cursor: pointer;
+    input {
+      position: relative;
+      top: -1px;
+      vertical-align: middle;
+      margin-right: 3px;
+    }
+  }
+  button {
+    float: right;
+    margin-top: 5px;
+  }
+}

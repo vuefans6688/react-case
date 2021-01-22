@@ -1,0 +1,9 @@
+.news-list {
+  width: 200px;
+  height: 150px;
+  background-color: #ddd;
+  overflow: auto;
+  .news-item {
+    height: 30px;
+  }
+}
